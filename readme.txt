@@ -1,4 +1,4 @@
-☀️ Renewable Energy Forecasting
+#☀️ Renewable Energy Forecasting
 This project focuses on forecasting solar energy generation using machine learning models, based on key environmental parameters such as Global Horizontal Irradiance (GHI),
 wind speed, and temperature.
 
